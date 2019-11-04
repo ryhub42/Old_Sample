@@ -2,4 +2,3 @@
 
 echo Hello World
 echo "Bye"
-ls useradd demo
